@@ -24,8 +24,15 @@ Welcome to Aurora Archives, a dynamic platform where administrators can create a
   - Optimized for both desktop and mobile devices.
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/b678a74b-6b98-4961-a9ee-3492255ceb5b)
+![image](https://github.com/user-attachments/assets/2fbda245-c8c8-4e25-91ec-e426bfc62840)
+![image](https://github.com/user-attachments/assets/ff1fcb2d-6723-4c38-9794-aff21e609b11)
+![image](https://github.com/user-attachments/assets/c23585fc-3f7b-4922-8a1d-1a09e2a8a03b)
+![image](https://github.com/user-attachments/assets/5466f417-448d-48af-ba8f-4f2af2ca8c4e)
+![image](https://github.com/user-attachments/assets/a9ff4f7b-e658-402e-ae18-cf8828ca24c6)
 
-![Screenshots of Project](screenshots/)
+
+
 
 ## Tech Stack
 
